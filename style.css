@@ -1,0 +1,132 @@
+body {
+  color: #ddd;
+  background: #000;
+
+}
+
+#container {
+  position: fixed;
+  
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  
+  overflow: auto;
+
+}
+
+header {
+  position: fixed;
+  z-index: 8;
+  
+  height: 130px;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  
+  background: #000;
+  background-image: url("./images/header.png");
+
+  color: #fff;
+  line-height: 27px;
+  text-align: center;
+  
+  transition: height .5s;
+}
+
+header.smaller {
+  height: 30px;
+
+}
+
+#logo {
+  position: absolute;
+  
+  height: 100px;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  
+  background-image: url("./images/rdenningsB.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  overflow: hidden;
+  transition: height .5s;
+}
+
+#logo.smaller {
+  height: 0px;
+  
+}
+
+nav {
+  position: absolute;
+  
+  height: 30px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  
+  background: linear-gradient(#991010 , #2f1e1e);
+
+  
+}
+
+#content {
+  position: absolute;
+  z-index: 7;
+  
+  top: 100px;
+  right: 0px;
+  left: 0px;
+  
+  transition: top .5s;
+
+}
+
+#content.smaller {
+  top: 30px;
+
+}
+
+#articles {
+  position: absolute;
+  
+  top: 0px;
+  right: 180px;
+  left: 180px;
+  
+  min-height: 450px;
+  
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  background: #AE1919;
+
+}
+
+aside {
+  position: absolute;
+
+  top: 0px;
+  bottom: 0px;
+  
+  width: 180px;
+  
+  background: #000;
+  
+}
+
+#left {
+  left: 0px;
+
+}
+
+#right {
+  right: 0px;
+
+}
+
