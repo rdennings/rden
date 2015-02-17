@@ -1,3 +1,0 @@
-<link href="../style.css" rel="stylesheet" type="text/css" />
-<link href="../navbar.css" rel="stylesheet" type="text/css" />
-<script src="../js/js.js"></script>

@@ -1,5 +1,0 @@
-[06-Jan-2015 20:55:25 America/Chicago] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home4/dennings/public_html/rdennings.com/includes/pokemoncon.txt on line 4
-[06-Jan-2015 20:55:45 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home4/dennings/public_html/rdennings.com/includes/pokemoncon.txt on line 4
-[06-Jan-2015 21:07:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/dennings/public_html/rdennings.com/includes/pokemoncon.txt on line 11
-[06-Jan-2015 21:20:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/dennings/public_html/rdennings.com/includes/pokemoncon.txt on line 6
-[06-Jan-2015 21:59:56 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/dennings/public_html/rdennings.com/includes/pokemoncon.txt on line 2

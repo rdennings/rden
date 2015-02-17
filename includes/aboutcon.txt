@@ -1,2 +1,0 @@
-<h2>About Me</h2>
-<p>Still needs content...</p>
